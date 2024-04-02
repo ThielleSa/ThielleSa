@@ -1,6 +1,6 @@
 # Bem-vindos ao meu GitHub!🥰
 
-<img src="https://campuscode-site.s3-sa-east-1.amazonaws.com/newsletter/panda-love.gif" width=400 height= 350>
+![](https://campuscode-site.s3-sa-east-1.amazonaws.com/newsletter/panda-love.gif)
 
 🐼 Olá, me chamo Arielle! <br>
 👩‍💻 Sou estudante de sistemas de informação.
