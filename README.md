@@ -1,4 +1,10 @@
-### Hi there 👋
+# Bem-vindos ao meu GitHub!🥰
+
+![](https://campuscode-site.s3-sa-east-1.amazonaws.com/newsletter/panda-love.gif)
+
+🐼 Olá, me chamo Arielle! <br>
+👩‍💻 Sou estudante de sistemas de informação.
+
 
 <!--
 **ThielleSa/ThielleSa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
