@@ -5,6 +5,11 @@
 🐼 Olá, me chamo Arielle! <br>
 👩‍💻 Sou estudante de sistemas de informação.
 
+## Minhas tecnologias
+
+<img src= "https://icon-library.com/images/java-icon-png/java-icon-png-15.jpg" width=120 height= 150>
+<img src= "https://blog.corsego.com/assets/thumbnails/postgresql.png" width=120 height=150>
+
 
 <!--
 **ThielleSa/ThielleSa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
