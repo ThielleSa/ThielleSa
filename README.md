@@ -7,7 +7,7 @@
 
 ## Minhas tecnologias
 
-<img src="https://icon-library.com/images/java-icon-png/java-icon-png-15.jpg" width=80 height= 95><img src="https://blog.corsego.com/assets/thumbnails/postgresql.png" width=80 height=95><img src="https://mimir.ri7.fr/uploads/certification/formation-courte-php-min-633557e556b94.jpg" width=80 height=95>
+<img src="https://icon-library.com/images/java-icon-png/java-icon-png-15.jpg" width=80 height= 95><img src="https://blog.corsego.com/assets/thumbnails/postgresql.png" width=80 height=95><img src="https://mimir.ri7.fr/uploads/certification/formation-courte-php-min-633557e556b94.jpg" width=80 height=95><img src="https://th.bing.com/th/id/OIP.Hh_tEbIb4-MagJsV6x_RZwHaHa?rs=1&pid=ImgDetMain" width=80 height= 95>
 
 --------------------------------------------------------------------------------------------
 
