@@ -2,6 +2,7 @@
 
 🐼 Olá, me chamo Arielle! <br>
 👩‍💻 Sou estudante de sistemas de informação.
+
 ![](https://campuscode-site.s3-sa-east-1.amazonaws.com/newsletter/panda-love.gif)
 
 ## Minhas tecnologias
