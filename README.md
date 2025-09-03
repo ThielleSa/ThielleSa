@@ -1,7 +1,7 @@
 # Bem-vindos ao meu GitHub!🥰
 
 🐼 Olá, me chamo Arielle! <br>
-👩‍💻 Aqui você verá o meu portólio de repositórios.
+👩‍💻 Aqui você verá o meu portfólio de repositórios.
 
 ![](https://campuscode-site.s3-sa-east-1.amazonaws.com/newsletter/panda-love.gif)
 
